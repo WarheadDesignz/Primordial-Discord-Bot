@@ -1,0 +1,20 @@
+// ALL SETTINGS BELOW ARE REQUIRED UNLESS YOU EDIT THE BOT TO NOT NEED THEM.
+
+// Please put your bot token here (DO NOT SHARE IT WITH ANYONE).
+botToken:
+
+//This is used for ADMIN only commands such as resetting save timers, etc.
+adminRoleName:
+
+//This is used for MODERATOR only commands such as resetting save timers, etc.
+modRoleName:
+
+// You need at least a Carnivore and Herbivore Role (or whatever you want to call them). Do not change names in here though.
+carnivoreRoleID:
+herbivoreRoleID:
+
+// Be sure to have a specific channel for the bot.
+botChannelID:
+
+// C:\theisleserver\TheIsle\Saved\Databases\Survival\Players\ <<<< is default. Make sure to get all the way to \Players\ . MUST HAVE \ at the end.
+theIsleDirectory:

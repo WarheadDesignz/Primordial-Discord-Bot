@@ -1,0 +1,13 @@
+0
+0
+0
+0
+0
+0
+// Info above
+0 - Global Saves Total (how many times have people saved).
+1 - How many registered accounts are registered with the bot?
+2 - How many injections have registered users done.
+3 - How many alt accounts have used Injections.
+4 - How Many Herbies have been saved.
+5 - How Many Carnivores have been saved.

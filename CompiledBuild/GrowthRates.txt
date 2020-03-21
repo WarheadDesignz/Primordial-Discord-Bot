@@ -1,0 +1,17 @@
+// Carnies
+Acro:0.20
+Alberto:0.36
+Austro:0.25
+Bary:0.45
+Herra:0.28
+Spino:0.20
+Velo:1.0
+
+// Herbies
+Anky:0.35
+Theri:0.38
+Stego:0.28
+Shant:0.40
+Oro:0.75
+Ava:0.23
+Taco:0.75

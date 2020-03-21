@@ -1,0 +1,28 @@
+"Location_Thenyaw_Island": "X=-157871.250 Y=-51590.887 Z=-33278.719",
+"Location_Thenyaw_Island": "X=-115360.016 Y=-28065.318 Z=-37535.621",
+"Location_Thenyaw_Island": "X=-115840.188 Y=26901.041 Z=-42304.273",
+"Location_Thenyaw_Island": "X=-101245.633 Y=63796.508 Z=-49641.887",
+"Location_Thenyaw_Island": "X=-170181.359 Y=126474.563 Z=-33511.660",
+"Location_Thenyaw_Island": "X=-187227.563 Y=164897.313 Z=-29148.789",
+"Location_Thenyaw_Island": "X=8171.063 Y=208927.469 Z=-46686.480",
+"Location_Thenyaw_Island": "X=67525.445 Y=200166.484 Z=-30995.041",
+"Location_Thenyaw_Island": "X=189753.094 Y=196919.250 Z=-57258.645",
+"Location_Thenyaw_Island": "X=239955.844 Y=72455.344 Z=-62371.137",
+"Location_Thenyaw_Island": "X=270963.813 Y=-31082.492 Z=-62347.695",
+"Location_Thenyaw_Island": "X=144656.938 Y=-169896.000 Z=-31075.775",
+"Location_Thenyaw_Island": "X=144656.938 Y=-169896.000 Z=-31075.775",
+"Location_Thenyaw_Island": "X=137111.969 Y=-102863.992 Z=-42507.684",
+"Location_Thenyaw_Island": "X=-122191.750 Y=-218020.063 Z=-25624.102",
+"Location_Thenyaw_Island": "X=-205786.063 Y=-169104.109 Z=-30949.996",
+"Location_Thenyaw_Island": "X=-242448.422 Y=-132980.172 Z=-43471.512",
+"Location_Thenyaw_Island": "X=-259400.219 Y=-41023.863 Z=-50780.055",
+"Location_Thenyaw_Island": "X=-193070.219 Y=44324.777 Z=-27418.869",
+"Location_Thenyaw_Island": "X=-278173.563 Y=158707.281 Z=-27010.043",
+
+
+
+
+
+
+
+
